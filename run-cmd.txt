@@ -1,0 +1,15 @@
+
+Step 1 − To compile the file use the following command on the terminal window.
+
+tsc sample.ts
+
+Step 2 − The file is compiled to Test.js. To run the program written, type the following in the terminal.
+
+node sample.js
+
+-----tsc sample.ts --watch-------
+
+
+tsc sample.ts --watch
+
+
